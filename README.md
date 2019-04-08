@@ -28,4 +28,4 @@ Open another terminal
 make run
 ```
 
-You can open as many terminal as you want
+You can run as many docker instance as you want. The more broadcasted messages you will received in each terminal.
